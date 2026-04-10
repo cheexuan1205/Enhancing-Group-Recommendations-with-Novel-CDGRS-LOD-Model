@@ -14,7 +14,7 @@ The proposed approach addresses key challenges in group recommendation systems, 
 * Advanced group preference aggregation strategies (KNN and Average Aggregation)
 * Semantic enrichment for improved recommendation accuracy
 * Scalable architecture for real-world applications
-* Evaluation on benchmark datasets with performance comparison using RMSE, MAE, AUC metrics and visualized through ROC curve
+* Evaluation on benchmark datasets with performance comparison using RMSE, MAE, AUC metrics and ROC curve
 
 ## Use Cases
 
