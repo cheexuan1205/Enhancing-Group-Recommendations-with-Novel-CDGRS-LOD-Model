@@ -10,11 +10,11 @@ The proposed approach addresses key challenges in group recommendation systems, 
 
 ## Key Features
 
-* Cross-domain recommendation using Linked Open Data
-* Advanced group preference aggregation strategies (KNN and Average Aggregation)
-* Semantic enrichment for improved recommendation accuracy
-* Scalable architecture for real-world applications
-* Evaluation on benchmark datasets with performance comparison using RMSE, MAE, AUC metrics and ROC curve
+* Cross-domain recommendation leveraging Linked Open Data (LOD) for richer knowledge integration
+* Advanced group preference aggregation using K-Nearest Neighbors (KNN) and averaging strategies
+* Semantic enrichment to enhance recommendation relevance and accuracy
+* Scalable and extensible architecture suitable for real-world applications
+* Comprehensive evaluation on benchmark datasets using RMSE, MAE, AUC, and ROC curve analysis
 
 ## Use Cases
 
