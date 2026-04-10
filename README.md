@@ -8,7 +8,7 @@ This project presents a novel **Cross-Domain Group Recommendation System using L
 
 The proposed approach addresses key challenges in group recommendation systems, including preference aggregation, data sparsity, and cross-domain knowledge integration. Through semantic relationships derived from LOD, CDGRS-LOD enhances recommendation diversity, scalability, and personalization at the group level.
 
-## Key Features
+## System Highlights
 
 * Cross-domain recommendation leveraging Linked Open Data (LOD) for richer knowledge integration
 * Advanced group preference aggregation using K-Nearest Neighbors (KNN) and averaging strategies
