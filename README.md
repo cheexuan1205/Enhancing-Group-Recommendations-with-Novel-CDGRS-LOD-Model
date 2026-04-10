@@ -11,10 +11,10 @@ The proposed approach addresses key challenges in group recommendation systems, 
 ## Key Features
 
 * Cross-domain recommendation using Linked Open Data
-* Advanced group preference aggregation strategies
+* Advanced group preference aggregation strategies (KNN and Average Aggregation)
 * Semantic enrichment for improved recommendation accuracy
 * Scalable architecture for real-world applications
-* Evaluation on benchmark datasets with performance comparison
+* Evaluation on benchmark datasets with performance comparison using RMSE, MAE, AUC metrics and visualized through ROC curve
 
 ## Use Cases
 
@@ -26,6 +26,7 @@ The proposed approach addresses key challenges in group recommendation systems, 
 ## Tech Stack
 
 * Python
-* Machine Learning / Recommender Systems
+* Neo4j for Graph Visualization
+* Machine Learning / Individual vs. Group Recommender Systems
 * Knowledge Graphs & Linked Open Data
 * Data Processing & Evaluation Frameworks
